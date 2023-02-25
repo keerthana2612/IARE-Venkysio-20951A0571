@@ -1,1 +1,10 @@
-print("Hello")
+x=int(input())
+y=int(input())
+z=int(input())
+m=int(input())
+a=(m*y)/x
+print(a)
+b=1/4*a
+c=1/z*a
+print(c)
+print(b)
